@@ -177,7 +177,7 @@
 - This should end either with them setting sail or with their first day at sea having been complete.
 - On their first day at Sea, they will be attacked by sea monsters
 ## Magnum Canatum
-- The Conatum is put on by an organization of philanthropists and international magnates **TMGG - The World's Most Great & Generous**. ![[Pasted image 20260620224857.png]]
+- The Conatum is put on by an organization of philanthropists and international magnates **TMGG - The World's Most Great & Generous**. ![TMGG](assets/pasted-image-20260620224857.png)
 - The promotion is that they want to find the most capable crew in the world for an adventure that they wish to sponsor.
 - They have spent a pretty penny spreading word far and wide that anyone who can gather a crew and wrangle a boat is welcome
 - "A Hero is Someone with the Courage to Tame Wild and Strange Lands!"
