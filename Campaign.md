@@ -49,7 +49,7 @@
 - As Malachi and Herbie walk the streets, on his way in, Herbie will see his old bandmates
 	- He can try to hide from them, but if they see him they will approach and ask him how he is doing
 	- They will also be doing the race, as promo for their latest collection of ballads
-	- Describe the band members (all bards, maybe some multi-class):
+		- Describe the band members (all bards, maybe some multi-class):
 		- The lead singer: **Gwendolyn Smotherweather** is a half-elf. She is gorgeous and had a  fling with Herbie when he was a part of the band. She is with Damian now. She is sheepish upon greeting Herbie. She had been one of the ones to agree to kick Herbie out. It was a deep betrayal. She is a cleric / bard, grew up singing at church, but hasn't been inside of a church in 8 years. She is a former catholic and wears a cross with a circle and the mother mary engraved in the center. Malachi will make a religion check, dc of 5.
 		- Lutest: **Damian Cool** is a human, he has actually become pretty famous as a lutest int he continent. He also was one of the driving forces between Herbie and the band going there separate ways. He is a multiclassed Bard / Rogue.
 		- Double Bass: **Balthazar Dimadome** is a dragonborn, a nepo baby of the very wealthy and influential Dimadome family. He is pretty indifferent to everything around him so when all the drama with herbie was going on, he didnt really care or notice what was happening. He smokes a lot of opium.
@@ -156,6 +156,11 @@
 		- **Paula Andouille**: A celebrity judge, former singer who toured all around the continent for decades. She is super positive and tells everyone they have a very bright future and that she loves them. Even if she says no to them for her vote
 		- **Randy Johnsburg**: A well regarded musician who worked his way up starting as a touring musician supporting major acts, plays a large number of instruments. He then began composing after 10 years touring and became one of the best composers of his time. He says his real instrument is the pen. He's always gotta be real with you dog.
 - The trivia is exactly what it sounds like
+	- 1rst place: 200 GP
+	- 2nd place: 100 gp
+	- 3rd place: 50 gp
+	- The other groups will roll to see how they do on each round
+	- The rogues will try and cheat / mess up the other parties
 	- The participants will get to make history checks
 	- The role depends the level of the hint they get
 	- The trivia is a mix of dnd trivia and trivia about the state of the world in the 1500s
@@ -164,9 +169,87 @@
 		- Most of them wear glasses and carry around their, heavy, invasive grimoires. 
 		- There is also a group of people dressed in black cloaks (all snickering and rogues) who will be trying to win by cheating
 		- MC is **Alexi Tribek**: Sleek old man dwarf, amazing voice, seems like a good dude. Wears a navy suit.
+		- There will be one druid there who is just killing it in the first round. He will be accompanied by the ranger Cam.
+		#### Trivia
+		##### DND questions
+		###### Easy
+		- What is the difference between a sorcer, warlock, and wizard?
+			- A sorcerer's magic is innnate
+			- A wizard studies magic
+			- A warlock has a sugar deity
+		- What does a paladin who has broken his oath become?
+			- Oath breaker paladin
+		- Tieflings are descendants of what planar beings?
+			- Devils / Fiends
+		- Healing word is a what level spell?
+			- Level 1
+		- What do barbarians love to do?
+			- rage
+		###### Medium
+		- What does rule zero state of DnD?
+			- The DM has the power to override or change any rule
+		- Dark elves are also commonly referred to as?
+			- Drow
+		- What is the primary difference between the way devils and demons act?
+			- Devils are lawful evil and believe in hierarchy while demons believe in pure chaos
+		- A mimic's false form is usually in the shape of what kind of item?
+			- Wooden chest
+		- ninth level spell that transports you instantly to another plane?
+			- Gate
+		##### Hard
+		- Which rogueish archetype is known of as a powerhouse in the first round of combat?
+			- Assassin
+		- Halflings are a race of creatures taking inspiration from what fictional race?
+			- Hobbits
+		- What popular homebrew monster consumes the memory of its victims on top of its organic form?
+			- The false hydra
+		- What is the fairies homeland?
+			- Feywild
+		- What is the demons homeland?
+			- Abyss
+		##### 1500s trivia
+		###### easy
+		- What european hero was burned at the stake by the roman catholics in 1430 and later went on to become the patron saint of france?
+			- Joan of arc
+		- Who was it that painted the sistine chapel?
+			- Michelangelo
+		###### medium
+		- Who mistook manatees for mermaids in 1493 and said they were not as beautiful as they were painted?
+			- Christopher Columbus
+		- What was the chinese dynastic in power throughout the 1400s and 1500s
+			- ming
+		###### hard 
+		- What years interrupted Henry VI reign over England?
+			- 1461 - 1469
+		- What explorer circumnavigated the entire globe in 1522?
+			- Juan Sebastian Elcano
+		- What letter was added to the english alphabet in the 1500s?
+			- J
+### Night before the race
+#### Emissary from the church
 - While the crew is out doing various tasks and competitions to earn money, a man in the robes of his cult will pull Hamal aside and tell him that he is a friend, someone with a vested interest in his future
 	- **Heimdall Heurter**: He is one of the higher ups in the church, quietly is the leader of the main opposition to the current leader. He is even more radical than the current leader and has ambitions of overthrowing him and using the cult to carve out his own country. He believes he is truly the one chosen to bring about the great change (an apocalypse which will destroy all lands but that belonging to the promised, his members)
 	- He is a dark elf dressed in the robes of the cult but with the medallions to show how high up he is.
+	- Same guy that went up to Aggie
+#### Cant run from the past
+- Bogey will see Jim Crow
+- If Jim Crow sees him he will come up to him a berate him
+- He will ask him where his babysitter Tony Hawk is
+- He will tell him that ever since he left, BlueJay Leno has taken over the top spot. Seems like he doesn't even notice hes gone
+- He would say everyone is wondering where he is and when he is coming back, but honestly it seems everyone has forgotten about you
+- He will ask him what he is doing here anyway.
+#### Bad men from the town
+- Bo will run into a group of men who served in his arms unit with him
+- They will ask him to have a drink with him
+- They will ask him why he is even going on this journey, and if he is still watching out for that trouble maker Jan, they will ask why he even continues to do that?
+- they will also tell him that the son of the baron (the baron is the man who had Jan's family executed) is also taking part of the canatum
+- they will tell him to be careful, that he wouldn't doubt the baron's son, Pete Tettertinkle, will most likely use this as an opportunity to finish the job
+#### Cam / Amys character
+- may happen upon some information about where the first location is going to be (Twighland)
+- If cam can be crafty enough to get the right information, they may be able to leave early and get a head start
+- Try and work in some kind of animal handling (this would work well for Corey's character as well)
+- Maybe have them do a shooting contest (dual?) with Georgie Blackpowder
+#### Extra stuffs
 - During the all night festival the crew will have the opportunity to do some shopping and get supplies for their journey
 - If the crew comes up short of money, they can of course try and steal a ship.
 - Before folks set sail for the Conatum, **SilberZunge** will announce the rules of the race, as well as the prize - a million dollars + the adventure of a life time sponsored by **The Worlds Most Generous**.
@@ -205,6 +288,8 @@
 - Berserker with 40 HP
 - bandit captain with 25 hp
 - guard (he will probably die)
+- If they have a boat (the party) these people will be sent by Damien Cool
+- If they are stealing a boat, it will be the boat of damien cool's band
 ## Sirens Song
 - It will look like a group of mermaids on these rocks in the middle of the sea
 - Their song is a sort of illusion magic which hides their true form and messes with the senses of those who hear it
@@ -217,3 +302,10 @@
 	- **Multiattack**. The siren makes two attacks with her claws.
 	- **Claw**. _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d6 + 1) slashing damage.
 	- **Luring Song**. The siren sings a magical melody. Every humanoid and giant within 300 feet of the siren that can hear the song must succeed on a DC 14 [Wisdom](https://www.5esrd.com/using-ability-scores#TOC-Wisdom) saving throw or be [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) until the song ends. The siren must take bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is incapacitated. While [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) by the siren, a target is incapacitated and ignores the songs of other sirens. If the [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target is more than 5 feet away from the siren, the target must move on its turn towards the siren by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, the target can repeat the saving throw. A [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren’s song for the next 24 hours.
+## Run in with the first ship?
+- This will be an encounter with a christian ship!
+## The first Island
+- The first island will be Twighland, the island of mirrors
+	- located where jan mayen is
+- This is an island of mimics, dopplegangers, and the valley of the uncanney
+	- Making your way through this island is much like playing mimesis
