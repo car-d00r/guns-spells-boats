@@ -214,7 +214,7 @@
 		- Who was it that painted the sistine chapel?
 			- Michelangelo
 		###### medium
-		- Who mistook manatees for mermaids in 1493 and said they were not as beautiful as they were painted?
+		- Who mistook manatees for mermaids in 1493 and said they were not as beautiful as they were painted
 			- Christopher Columbus
 		- What was the chinese dynastic in power throughout the 1400s and 1500s
 			- ming
