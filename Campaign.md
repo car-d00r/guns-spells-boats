@@ -226,29 +226,47 @@
 		- What letter was added to the english alphabet in the 1500s?
 			- J
 ### Night before the race
-#### Emissary from the church
-- While the crew is out doing various tasks and competitions to earn money, a man in the robes of his cult will pull Hamal aside and tell him that he is a friend, someone with a vested interest in his future
-	- **Heimdall Heurter**: He is one of the higher ups in the church, quietly is the leader of the main opposition to the current leader. He is even more radical than the current leader and has ambitions of overthrowing him and using the cult to carve out his own country. He believes he is truly the one chosen to bring about the great change (an apocalypse which will destroy all lands but that belonging to the promised, his members)
-	- He is a dark elf dressed in the robes of the cult but with the medallions to show how high up he is.
-	- Same guy that went up to Aggie
-#### Cant run from the past
-- Bogey will see Jim Crow
-- If Jim Crow sees him he will come up to him a berate him
-- He will ask him where his babysitter Tony Hawk is
-- He will tell him that ever since he left, BlueJay Leno has taken over the top spot. Seems like he doesn't even notice hes gone
-- He would say everyone is wondering where he is and when he is coming back, but honestly it seems everyone has forgotten about you
-- He will ask him what he is doing here anyway.
-#### Bad men from the town
-- Bo will run into a group of men who served in his arms unit with him
-- They will ask him to have a drink with him
-- They will ask him why he is even going on this journey, and if he is still watching out for that trouble maker Jan, they will ask why he even continues to do that?
-- they will also tell him that the son of the baron (the baron is the man who had Jan's family executed) is also taking part of the canatum
-- they will tell him to be careful, that he wouldn't doubt the baron's son, Pete Tettertinkle, will most likely use this as an opportunity to finish the job
-#### Cam / Amys character
+#### Emissaries from the church
+#### ~~Cant run from the past~~
+- ~~Bogey will see Jim Crow~~
+- ~~If Jim Crow sees him he will come up to him a berate him~~
+- ~~He will ask him where his babysitter Tony Hawk is~~
+- ~~He will tell him that ever since he left, BlueJay Leno has taken over the top spot. Seems like he doesn't even notice hes gone~~
+- ~~He would say everyone is wondering where he is and when he is coming back, but honestly it seems everyone has forgotten about you~~
+- ~~He will ask him what he is doing here anyway.~~
+#### ~~Bad men from the town~~
+- ~~Bo will run into a group of men who served in his arms unit with him~~
+- ~~They will ask him to have a drink with him~~
+- ~~They will ask him why he is even going on this journey, and if he is still watching out for that trouble maker Jan, they will ask why he even continues to do that?~~
+- ~~they will also tell him that the son of the baron (the baron is the man who had Jan's family executed) is also taking part of the canatum~~
+- ~~they will tell him to be careful, that he wouldn't doubt the baron's son, Pete Tettertinkle, will most likely use this as an opportunity to finish the job~~
+#### Amys character
 - may happen upon some information about where the first location is going to be (Twighland)
 - If cam can be crafty enough to get the right information, they may be able to leave early and get a head start
 - Try and work in some kind of animal handling (this would work well for Corey's character as well)
 - Maybe have them do a shooting contest (dual?) with Georgie Blackpowder
+	- Georgie will confront him, saying how he has heard tell of a handsome gun-slinging, horse-riding man from across the world who decided to try his luck in the new-world
+#### Nothing like a family reunion
+- Malachi runs into his family
+- His family is actually a group of dopplegangers who are using his family to begin an infiltration of the catholic church
+- The reason the dopplegangers act so strange is that Malachi has not lived at home for quite some time so they have never observed their interaction
+- when they interrogated the family, they mostly spoke poorly of him but upon reading their thoughts, they found only love and concern
+	- This made the dopplegangers think the family was trying to trick malachi in order to raise some sort of alarm to him that they are acting strange (but really they just end up doing this to themselves)
+- His father is a member of the holy council of the pope, advising the pope in the evolving geo-political intricacies of the current age.'
+- All three of his sisters will run up and hug him, then quickly move to stand behind their father, as they normally do
+- They will treat Malachi incredibly well, even being happy to see him
+- His father will talk briefly about the upstart Martin Luther and how he is a radical that only seeks to create chaos and create a less pious, less god-fearing world
+- Rather than berating him for his faith, his father will instead refer to it as just a phase and ask him when he intends to return home to the fortune and piety that is waiting for him
+- His mother will seemingly dote over him, placing her hands around his face, feigning holding back tears as she says just how much she has missed you
+	- She will mention a childhood memory of how they used to get cannolis after church on sundays as a boy
+	- On a successful history check, Malachi will recall that she has not mentioned these fond memories since they were a regular occurence
+- He has three sisters, all younger than him, all in the process of becoming nuns
+	- most of the time, their father prevents them from speaking
+	- Malachi doesn't have much of a relationship with them at all
+- The dopplegangers have been hired by the group **running** the canatum to be their pawns in the race and also infiltrate the church
+- If the party gets suspicious and decides to follow the group, they may hear them talking about this in a tent or maybe even see them shape-shift into someone else
+#### Ham gets bullied
+- 
 #### Extra stuffs
 - During the all night festival the crew will have the opportunity to do some shopping and get supplies for their journey
 - If the crew comes up short of money, they can of course try and steal a ship.
