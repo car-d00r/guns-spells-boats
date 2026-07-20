@@ -240,20 +240,28 @@
 - ~~They will ask him why he is even going on this journey, and if he is still watching out for that trouble maker Jan, they will ask why he even continues to do that?~~
 - ~~they will also tell him that the son of the baron (the baron is the man who had Jan's family executed) is also taking part of the canatum~~
 - ~~they will tell him to be careful, that he wouldn't doubt the baron's son, Pete Tettertinkle, will most likely use this as an opportunity to finish the job~~
-#### Amys character
-- may happen upon some information about where the first location is going to be (Twighland)
-- If cam can be crafty enough to get the right information, they may be able to leave early and get a head start
-- Try and work in some kind of animal handling (this would work well for Corey's character as well)
-- Maybe have them do a shooting contest (dual?) with Georgie Blackpowder
-	- Georgie will confront him, saying how he has heard tell of a handsome gun-slinging, horse-riding man from across the world who decided to try his luck in the new-world
+#### ~~Amys character~~
+- ~~may happen upon some information about where the first location is going to be (Twighland)~~
+- ~~If cam can be crafty enough to get the right information, they may be able to leave early and get a head start~~
+- ~~Try and work in some kind of animal handling (this would work well for Corey's character as well)~~
+- ~~Maybe have them do a shooting contest (dual?) with Georgie Blackpowder~~
+	- ~~Georgie will confront him, saying how he has heard tell of a handsome gun-slinging, horse-riding man from across the world who decided to try his luck in the new-world~~
+## Getting the boat
+- Kragor intimidates the rep into a better deal
+- down payment was 327
+- the terms are 4.5% 
 #### Nothing like a family reunion
 - Malachi runs into his family
+- KRAGOR WILL MAKE AN ANIMAL HANDLING CHECK WITH ADVANTAGE
 - His family is actually a group of dopplegangers who are using his family to begin an infiltration of the catholic church
 - The reason the dopplegangers act so strange is that Malachi has not lived at home for quite some time so they have never observed their interaction
 - when they interrogated the family, they mostly spoke poorly of him but upon reading their thoughts, they found only love and concern
 	- This made the dopplegangers think the family was trying to trick malachi in order to raise some sort of alarm to him that they are acting strange (but really they just end up doing this to themselves)
 - His father is a member of the holy council of the pope, advising the pope in the evolving geo-political intricacies of the current age.'
 - All three of his sisters will run up and hug him, then quickly move to stand behind their father, as they normally do
+	- Shadraq
+	- Mishaq
+	- Abedmago
 - They will treat Malachi incredibly well, even being happy to see him
 - His father will talk briefly about the upstart Martin Luther and how he is a radical that only seeks to create chaos and create a less pious, less god-fearing world
 - Rather than berating him for his faith, his father will instead refer to it as just a phase and ask him when he intends to return home to the fortune and piety that is waiting for him
@@ -265,8 +273,37 @@
 	- Malachi doesn't have much of a relationship with them at all
 - The dopplegangers have been hired by the group **running** the canatum to be their pawns in the race and also infiltrate the church
 - If the party gets suspicious and decides to follow the group, they may hear them talking about this in a tent or maybe even see them shape-shift into someone else
+	- They will see a small cage, around the size of a cat
+- If they fight them, they will be getting their shit rocked until the city guard comes in and breaks it up
+- Kragor begins to smell the of cat pee
+- This incidentally leads the crew in the direction of Malachi's family
 #### Ham gets bullied
-- 
+- The party may run into a group of occultists from Arietus
+- They will be Ham's contemporaries in the cult
+	- Most of them are the children of members of the cult, mostly high ranking members
+	- A few of them are children of the leader of the cult
+	- In the group there are 8 of them
+	- The notable names (all children of the leader, take their mother names):
+		- gerald tightwearer
+		- beatrix globalwarmer
+		- Ysabel dingleberg
+- They will greet him and immediately start mocking him
+	- they greet him porky
+	- one will say they can't even believe ham managed to find the city let alone a group of people stupid enough to join him
+	- they will say they used to think he was dumb as an ox until he was outwitted by the cows they kept at the farm, once getting locked in a pen while they all got out (this was when ham was a child, they locked him in the pen)
+	- they will start betting on what animal or beast it was that ham's loser mother got involved with in order to spawn him
+- eventually they start spellcasting to fuck with him
+	- thaumaturgy
+	- prestigitation
+	- suggestion
+	- command
+	- tasha's hideous laughter
+	- phantasmal force
+	- Vicious mockery
+	- reduce
+	- feeblemind
+- Heimdall Huerter will break it up, telling the children to run off
+- He will give Ham the feywild shard before he leaves
 #### Extra stuffs
 - During the all night festival the crew will have the opportunity to do some shopping and get supplies for their journey
 - If the crew comes up short of money, they can of course try and steal a ship.
@@ -306,7 +343,7 @@
 - Berserker with 40 HP
 - bandit captain with 25 hp
 - guard (he will probably die)
-- If they have a boat (the party) these people will be sent by Damien Cool
+- If they have a boat (the party) these people will be sent by Damien Cool to sabotage Herbie on his journey
 - If they are stealing a boat, it will be the boat of damien cool's band
 ## Sirens Song
 - It will look like a group of mermaids on these rocks in the middle of the sea
@@ -321,7 +358,9 @@
 	- **Claw**. _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d6 + 1) slashing damage.
 	- **Luring Song**. The siren sings a magical melody. Every humanoid and giant within 300 feet of the siren that can hear the song must succeed on a DC 14 [Wisdom](https://www.5esrd.com/using-ability-scores#TOC-Wisdom) saving throw or be [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) until the song ends. The siren must take bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is incapacitated. While [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) by the siren, a target is incapacitated and ignores the songs of other sirens. If the [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target is more than 5 feet away from the siren, the target must move on its turn towards the siren by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, the target can repeat the saving throw. A [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren’s song for the next 24 hours.
 ## Run in with the first ship?
-- This will be an encounter with a christian ship!
+- This will be an encounter with a christian ship! or maybe damien's ship?
+### Ship combat
+- 
 ## The first Island
 - The first island will be Twighland, the island of mirrors
 	- located where jan mayen is
