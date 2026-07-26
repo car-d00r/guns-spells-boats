@@ -226,30 +226,10 @@
 		- What letter was added to the english alphabet in the 1500s?
 			- J
 ### Night before the race
-#### Emissaries from the church
-#### ~~Cant run from the past~~
-- ~~Bogey will see Jim Crow~~
-- ~~If Jim Crow sees him he will come up to him a berate him~~
-- ~~He will ask him where his babysitter Tony Hawk is~~
-- ~~He will tell him that ever since he left, BlueJay Leno has taken over the top spot. Seems like he doesn't even notice hes gone~~
-- ~~He would say everyone is wondering where he is and when he is coming back, but honestly it seems everyone has forgotten about you~~
-- ~~He will ask him what he is doing here anyway.~~
-#### ~~Bad men from the town~~
-- ~~Bo will run into a group of men who served in his arms unit with him~~
-- ~~They will ask him to have a drink with him~~
-- ~~They will ask him why he is even going on this journey, and if he is still watching out for that trouble maker Jan, they will ask why he even continues to do that?~~
-- ~~they will also tell him that the son of the baron (the baron is the man who had Jan's family executed) is also taking part of the canatum~~
-- ~~they will tell him to be careful, that he wouldn't doubt the baron's son, Pete Tettertinkle, will most likely use this as an opportunity to finish the job~~
-#### ~~Amys character~~
-- ~~may happen upon some information about where the first location is going to be (Twighland)~~
-- ~~If cam can be crafty enough to get the right information, they may be able to leave early and get a head start~~
-- ~~Try and work in some kind of animal handling (this would work well for Corey's character as well)~~
-- ~~Maybe have them do a shooting contest (dual?) with Georgie Blackpowder~~
-	- ~~Georgie will confront him, saying how he has heard tell of a handsome gun-slinging, horse-riding man from across the world who decided to try his luck in the new-world~~
 ## Getting the boat
 - Kragor intimidates the rep into a better deal
 - down payment was 327
-- the terms are 4.5% 
+- the terms are 4.5% compounding semi-annually
 #### Nothing like a family reunion
 - Malachi runs into his family
 - KRAGOR WILL MAKE AN ANIMAL HANDLING CHECK WITH ADVANTAGE
@@ -277,6 +257,26 @@
 - If they fight them, they will be getting their shit rocked until the city guard comes in and breaks it up
 - Kragor begins to smell the of cat pee
 - This incidentally leads the crew in the direction of Malachi's family
+- They almost get in a confrontation but are interrupted by the cities fire department who had gotten word from some of the folks who ran out.
+#### Cant run from the past
+ - Bogey will see Jim Crow
+- If Jim Crow sees him he will come up to him a berate him
+- He will ask him where his babysitter Tony Hawk is
+- He will tell him that ever since he left, BlueJay Leno has taken over the top spot. Seems like he doesn't even notice hes gone
+- He would say everyone is wondering where he is and when he is coming back, but honestly it seems everyone has forgotten about you
+- He will ask him what he is doing here anyway. 
+#### Bad men from the town
+- Bo will run into a group of men who served in his arms unit with him
+- They will ask him to have a drink with him
+- They will ask him why he is even going on this journey, and if he is still watching out for that trouble maker Jan, they will ask why he even continues to do that?
+- they will also tell him that the son of the baron (the baron is the man who had Jan's family executed) is also taking part of the canatum
+- they will tell him to be careful, that he wouldn't doubt the baron's son, Pete Tettertinkle, will most likely use this as an opportunity to finish the job
+#### Amys character
+- may happen upon some information about where the first location is going to be (Twighland)
+- If cam can be crafty enough to get the right information, they may be able to leave early and get a head start
+- Try and work in some kind of animal handling (this would work well for Corey's character as well)
+- Maybe have them do a shooting contest (dual?) with Georgie Blackpowder
+	- Georgie will confront him, saying how he has heard tell of a handsome gun-slinging, horse-riding man from across the world who decided to try his luck in the new-world
 #### Ham gets bullied
 - The party may run into a group of occultists from Arietus
 - They will be Ham's contemporaries in the cult
