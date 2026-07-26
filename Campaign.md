@@ -230,6 +230,7 @@
 - Kragor intimidates the rep into a better deal
 - down payment was 327
 - the terms are 4.5% compounding semi-annually
+- The mothership princess
 #### Nothing like a family reunion
 - Malachi runs into his family
 - KRAGOR WILL MAKE AN ANIMAL HANDLING CHECK WITH ADVANTAGE
@@ -258,6 +259,13 @@
 - Kragor begins to smell the of cat pee
 - This incidentally leads the crew in the direction of Malachi's family
 - They almost get in a confrontation but are interrupted by the cities fire department who had gotten word from some of the folks who ran out.
+#### Post family dispute
+- The fire department escorts them out
+- On the way out the dopplegangers see the group
+- After they see jan running and successfully pull off a rigging of the betting going on earning 15 gp
+- Boagie is high on magic mushrooms and runs into the crew. They walk down to the ship and meet up with cam
+- They go to check out their boat and end up recruiting a fat old dwarf (who is hammered)
+- They convince him to leave his stuff there
 #### Cant run from the past
  - Bogey will see Jim Crow
 - If Jim Crow sees him he will come up to him a berate him
@@ -271,6 +279,23 @@
 - They will ask him why he is even going on this journey, and if he is still watching out for that trouble maker Jan, they will ask why he even continues to do that?
 - they will also tell him that the son of the baron (the baron is the man who had Jan's family executed) is also taking part of the canatum
 - they will tell him to be careful, that he wouldn't doubt the baron's son, Pete Tettertinkle, will most likely use this as an opportunity to finish the job
+- Peter is actually on a boat and sees them and they all threaten each other
+- Init:
+	- herbie 22
+	- boagie 19
+	- Jan 16
+	- ham 11
+	- Peter Tettertinkle: 10
+		- hp: 52 - 13 = 39 - 13 = 26
+	- Guard A: 11 -1 = 10
+		- Has to dash to get out of the water
+	- Guard B: 11
+	- Guard C: 11
+	- cam 2
+- City guards pull up and stop the fight after hearing the commotion
+- Peter successfully convinces the guards to arrest them
+- They get locked up in a jail and they are able to steal the keys using a subtle spell and mage hand
+- 
 #### Amys character
 - may happen upon some information about where the first location is going to be (Twighland)
 - If cam can be crafty enough to get the right information, they may be able to leave early and get a head start
