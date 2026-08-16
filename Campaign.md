@@ -266,20 +266,9 @@
 - Boagie is high on magic mushrooms and runs into the crew. They walk down to the ship and meet up with cam
 - They go to check out their boat and end up recruiting a fat old dwarf (who is hammered)
 - They convince him to leave his stuff there
-#### Cant run from the past
- - Bogey will see Jim Crow
-- If Jim Crow sees him he will come up to him a berate him
-- He will ask him where his babysitter Tony Hawk is
-- He will tell him that ever since he left, BlueJay Leno has taken over the top spot. Seems like he doesn't even notice hes gone
-- He would say everyone is wondering where he is and when he is coming back, but honestly it seems everyone has forgotten about you
-- He will ask him what he is doing here anyway. 
 #### Bad men from the town
-- Bo will run into a group of men who served in his arms unit with him
-- They will ask him to have a drink with him
-- They will ask him why he is even going on this journey, and if he is still watching out for that trouble maker Jan, they will ask why he even continues to do that?
-- they will also tell him that the son of the baron (the baron is the man who had Jan's family executed) is also taking part of the canatum
-- they will tell him to be careful, that he wouldn't doubt the baron's son, Pete Tettertinkle, will most likely use this as an opportunity to finish the job
-- Peter is actually on a boat and sees them and they all threaten each other
+- Jan will run into a group of men who served in his arms unit with him
+- Peter is on a boat and sees them and they all threaten each other. He berates Jan from afar, trying to provoke him
 - Init:
 	- herbie 22
 	- boagie 19
@@ -295,43 +284,56 @@
 - City guards pull up and stop the fight after hearing the commotion
 - Peter successfully convinces the guards to arrest them
 - They get locked up in a jail and they are able to steal the keys using a subtle spell and mage hand
-- 
+- As they walk out of the jail, Heimdall Huerter greets them and asks to borrow Ham for a bit, they immediately go invisible
+#### Introducing luna
+- Right after ham leaves, boagie will say, "yall got the whole lecture on how the race goes yeah? I got some errands to run. Then turns into a rat and scampers off"
+- after ham goes off, the group will immediately be chased by the police.
+- When ham disappears, the group will start walking away. Once they do, they will see the man who was watching over the prison cell run out of the station and into a nearby barracks right down the street. After a few moments, ten guards will emerge. They will split in pairs in different directions and begin a search
+- They will start being chased by one of the guards, but jan will cause a distraction by running at them and through them, he will then be chased.
+- will be called by luna in a nearby alley when she sees herbie.
+- There are roughly 45 minutes until the announcement
 #### Amys character
 - may happen upon some information about where the first location is going to be (Twighland)
 - If cam can be crafty enough to get the right information, they may be able to leave early and get a head start
 - Try and work in some kind of animal handling (this would work well for Corey's character as well)
 - Maybe have them do a shooting contest (dual?) with Georgie Blackpowder
 	- Georgie will confront him, saying how he has heard tell of a handsome gun-slinging, horse-riding man from across the world who decided to try his luck in the new-world
-#### Ham gets bullied
-- The party may run into a group of occultists from Arietus
-- They will be Ham's contemporaries in the cult
-	- Most of them are the children of members of the cult, mostly high ranking members
-	- A few of them are children of the leader of the cult
-	- In the group there are 8 of them
-	- The notable names (all children of the leader, take their mother names):
-		- gerald tightwearer
-		- beatrix globalwarmer
-		- Ysabel dingleberg
-- They will greet him and immediately start mocking him
-	- they greet him porky
-	- one will say they can't even believe ham managed to find the city let alone a group of people stupid enough to join him
-	- they will say they used to think he was dumb as an ox until he was outwitted by the cows they kept at the farm, once getting locked in a pen while they all got out (this was when ham was a child, they locked him in the pen)
-	- they will start betting on what animal or beast it was that ham's loser mother got involved with in order to spawn him
-- eventually they start spellcasting to fuck with him
-	- thaumaturgy
-	- prestigitation
-	- suggestion
-	- command
-	- tasha's hideous laughter
-	- phantasmal force
-	- Vicious mockery
-	- reduce
-	- feeblemind
-- Heimdall Huerter will break it up, telling the children to run off
-- He will give Ham the feywild shard before he leaves
+#### ~~Cant run from the past~~
+ - ~~Bogey will see Jim Crow~~
+- ~~If Jim Crow sees him he will come up to him a berate him~~
+- ~~He will ask him where his babysitter Tony Hawk is~~
+- ~~He will tell him that ever since he left, BlueJay Leno has taken over the top spot. Seems like he doesn't even notice hes gone~~
+- ~~He would say everyone is wondering where he is and when he is coming back, but honestly it seems everyone has forgotten about you~~
+- ~~He will ask him what he is doing here anyway.~~ 
+#### ~~Ham gets bullied~~
+- ~~The party may run into a group of occultists from Arietus~~
+- ~~They will be Ham's contemporaries in the cult~~
+	- ~~Most of them are the children of members of the cult, mostly high ranking members~~
+	- ~~A few of them are children of the leader of the cult~~
+	- ~~In the group there are 8 of them~~
+	- ~~The notable names (all children of the leader, take their mother names):~~
+		- ~~gerald tightwearer~~
+		- ~~beatrix globalwarmer~~
+		- ~~Ysabel dingleberg~~
+- ~~They will greet him and immediately start mocking him~~
+	- ~~they greet him porky~~
+	- ~~one will say they can't even believe ham managed to find the city let alone a group of people stupid enough to join him~~
+	- ~~they will say they used to think he was dumb as an ox until he was outwitted by the cows they kept at the farm, once getting locked in a pen while they all got out (this was when ham was a child, they locked him in the pen)~~
+	- ~~they will start betting on what animal or beast it was that ham's loser mother got involved with in order to spawn him~~
+- ~~eventually they start spellcasting to fuck with him~~
+	- ~~thaumaturgy~~
+	- ~~prestigitation~~
+	- ~~suggestion~~
+	- ~~command~~
+	- ~~tasha's hideous laughter~~
+	- ~~phantasmal force~~
+	- ~~Vicious mockery~~
+	- ~~reduce~~
+	- ~~feeblemind~~
+- ~~Heimdall Huerter will break it up, telling the children to run off~~
+- ~~He will give Ham the feywild shard before he leaves~~
 #### Extra stuffs
 - During the all night festival the crew will have the opportunity to do some shopping and get supplies for their journey
-- If the crew comes up short of money, they can of course try and steal a ship.
 - Before folks set sail for the Conatum, **SilberZunge** will announce the rules of the race, as well as the prize - a million dollars + the adventure of a life time sponsored by **The Worlds Most Generous**.
 - If the crew does decide to steal a ship and gets caught (there will be one or two drunk fellas on board the morning after the festival)
 	- They will yell for help, if the crew is unable to set sail before the second round of combat, the true owners of the boat will arrive and join the fight
@@ -382,10 +384,6 @@
 	- **Multiattack**. The siren makes two attacks with her claws.
 	- **Claw**. _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d6 + 1) slashing damage.
 	- **Luring Song**. The siren sings a magical melody. Every humanoid and giant within 300 feet of the siren that can hear the song must succeed on a DC 14 [Wisdom](https://www.5esrd.com/using-ability-scores#TOC-Wisdom) saving throw or be [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) until the song ends. The siren must take bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is incapacitated. While [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) by the siren, a target is incapacitated and ignores the songs of other sirens. If the [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target is more than 5 feet away from the siren, the target must move on its turn towards the siren by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, the target can repeat the saving throw. A [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren’s song for the next 24 hours.
-## Run in with the first ship?
-- This will be an encounter with a christian ship! or maybe damien's ship?
-### Ship combat
-- 
 ## The first Island
 - The first island will be Twighland, the island of mirrors
 	- located where jan mayen is
