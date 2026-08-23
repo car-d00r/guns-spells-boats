@@ -306,33 +306,6 @@
 - ~~He will tell him that ever since he left, BlueJay Leno has taken over the top spot. Seems like he doesn't even notice hes gone~~
 - ~~He would say everyone is wondering where he is and when he is coming back, but honestly it seems everyone has forgotten about you~~
 - ~~He will ask him what he is doing here anyway.~~ 
-#### ~~Ham gets bullied~~
-- ~~The party may run into a group of occultists from Arietus~~
-- ~~They will be Ham's contemporaries in the cult~~
-	- ~~Most of them are the children of members of the cult, mostly high ranking members~~
-	- ~~A few of them are children of the leader of the cult~~
-	- ~~In the group there are 8 of them~~
-	- ~~The notable names (all children of the leader, take their mother names):~~
-		- ~~gerald tightwearer~~
-		- ~~beatrix globalwarmer~~
-		- ~~Ysabel dingleberg~~
-- ~~They will greet him and immediately start mocking him~~
-	- ~~they greet him porky~~
-	- ~~one will say they can't even believe ham managed to find the city let alone a group of people stupid enough to join him~~
-	- ~~they will say they used to think he was dumb as an ox until he was outwitted by the cows they kept at the farm, once getting locked in a pen while they all got out (this was when ham was a child, they locked him in the pen)~~
-	- ~~they will start betting on what animal or beast it was that ham's loser mother got involved with in order to spawn him~~
-- ~~eventually they start spellcasting to fuck with him~~
-	- ~~thaumaturgy~~
-	- ~~prestigitation~~
-	- ~~suggestion~~
-	- ~~command~~
-	- ~~tasha's hideous laughter~~
-	- ~~phantasmal force~~
-	- ~~Vicious mockery~~
-	- ~~reduce~~
-	- ~~feeblemind~~
-- ~~Heimdall Huerter will break it up, telling the children to run off~~
-- ~~He will give Ham the feywild shard before he leaves~~
 #### Extra stuffs
 - During the all night festival the crew will have the opportunity to do some shopping and get supplies for their journey
 - Before folks set sail for the Conatum, **SilberZunge** will announce the rules of the race, as well as the prize - a million dollars + the adventure of a life time sponsored by **The Worlds Most Generous**.
@@ -349,11 +322,12 @@
 - They have spent a pretty penny spreading word far and wide that anyone who can gather a crew and wrangle a boat is welcome
 - "A Hero is Someone with the Courage to Tame Wild and Strange Lands!"
 - Little does everyone know, they are actually trying to put together an army for colonization.
-- The richest people in the world at the time are trying to divide up the planet into their own dominions and want to use the best participants in the race as their militia to take over each and every country![[Pasted image 20260816142849.png]]
-- They will select people from different countries and manipulate them into thinking they are doing a particular expedition to this one nation that they either despise or know nothing about.
+- TMGG is trying to form an army to invade hell and colonize the realm of the devils. 
+	- Different members of TMGG are being used and manipulated by certain demons.
+	- These demons decided to have a contest with each other to see who could use the greed of the humans to cause the most chaos in hell. It was never meant to be a full assault, but rather a game amongst them where they could fuck with their eternal enemies
+	- But because this isn't a coordinated attack, the different groups will be at odds with each other
+	- The
 - Make sure there is actually political in-fighting within the group
-- Also some gov's will probably support this
-- Some will see this as a chance to stage their own revolution.
 ### Rules
 - The first main rule is that THERE ARE NO RULES AT SEA AS IT IS THE DOMINION OF NO NATION, IT BELONGS TO THE MAIN WITH THE MOST MOXY
 - The race will be run in a series of short segments to far away lands.
@@ -400,8 +374,37 @@
 	- bo
 - guard (he will probably die)
 - If they have a boat (the party) these people will be sent by Damien Cool to sabotage Herbie on his journey
-- If they are stealing a boat, it will be the boat of damien cool's band
-## Sirens Song
+- If they are stealing a boat, it will be the boat of damien cool's band'
+# Everyone Levels up!
+- Getting on the boat means getting to the next phase, level 4 it is.
+# Ham gets bullied - TODO: Format as two ships meeting
+- The party may run into a group of occultists from Arietus
+- They will be Ham's contemporaries in the cult
+	- Most of them are the children of members of the cult, mostly high ranking members
+	- A few of them are children of the leader of the cult
+	- In the group there are 8 of them
+	- The notable names (all children of the leader, take their mother names):
+		- gerald tightwearer
+		- beatrix globalwarmer
+		- Ysabel dingleberg
+- They will greet him and immediately start mocking him
+	- they greet him porky
+	- one will say they can't even believe ham managed to find the city let alone a group of people stupid enough to join him
+	- they will say they used to think he was dumb as an ox until he was outwitted by the cows they kept at the farm, once getting locked in a pen while they all got out (this was when ham was a child, they locked him in the pen)
+	- they will start betting on what animal or beast it was that ham's loser mother got involved with in order to spawn him
+- eventually they start spellcasting to fuck with him
+	- thaumaturgy
+	- prestigitation
+	- suggestion
+	- command
+	- tasha's hideous laughter
+	- phantasmal force
+	- Vicious mockery
+	- reduce
+	- feeblemind
+- Heimdall Huerter will break it up, telling the children to run off
+- He will give Ham the feywild shard before he leaves
+## Sirens Song - TODO: Alter this to be more interesting, maybe involving a potential boat encounter (this will happen near the first island) - maybe this happens when ham runs into the arietus crew
 - It will look like a group of mermaids on these rocks in the middle of the sea
 - Their song is a sort of illusion magic which hides their true form and messes with the senses of those who hear it
 - Sailors sail in circles drawing ever closer to the rock until they get close enough and so hypnotized by the song that they don't even notice as the monsters take their first bite
@@ -413,8 +416,9 @@
 	- **Multiattack**. The siren makes two attacks with her claws.
 	- **Claw**. _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d6 + 1) slashing damage.
 	- **Luring Song**. The siren sings a magical melody. Every humanoid and giant within 300 feet of the siren that can hear the song must succeed on a DC 14 [Wisdom](https://www.5esrd.com/using-ability-scores#TOC-Wisdom) saving throw or be [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) until the song ends. The siren must take bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is incapacitated. While [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) by the siren, a target is incapacitated and ignores the songs of other sirens. If the [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target is more than 5 feet away from the siren, the target must move on its turn towards the siren by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, the target can repeat the saving throw. A [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren’s song for the next 24 hours.
-## The first Island
+## The first Island - TODO: Fill out
 - The first island will be Twighland, the island of mirrors
 	- located where jan mayen is
 - This is an island of mimics, dopplegangers, and the valley of the uncanney
 	- Making your way through this island is much like playing mimesis
+# TODO: Figure out how demons fit into this
