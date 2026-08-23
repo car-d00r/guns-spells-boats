@@ -283,6 +283,7 @@
 	- cam 2
 - City guards pull up and stop the fight after hearing the commotion
 - Peter successfully convinces the guards to arrest them
+- 
 - They get locked up in a jail and they are able to steal the keys using a subtle spell and mage hand
 - As they walk out of the jail, Heimdall Huerter greets them and asks to borrow Ham for a bit, they immediately go invisible
 #### Introducing luna
@@ -342,12 +343,13 @@
 - This should end either with them setting sail or with their first day at sea having been complete.
 - On their first day at Sea, they will be attacked by sea monsters
 ## Magnum Canatum
-- The Conatum is put on by an organization of philanthropists and international magnates **TMGG - The World's Most Great & Generous**. ![TMGG](assets/pasted-image-20260620224857.png)
+- The Conatum is put on by an organization of philanthropists and international magnates **TMGG - The World's Most Great & Generous**. 
+![[Pasted image 20260816142849.png]]
 - The promotion is that they want to find the most capable crew in the world for an adventure that they wish to sponsor.
 - They have spent a pretty penny spreading word far and wide that anyone who can gather a crew and wrangle a boat is welcome
 - "A Hero is Someone with the Courage to Tame Wild and Strange Lands!"
 - Little does everyone know, they are actually trying to put together an army for colonization.
-- The richest people in the world at the time are trying to divide up the planet into their own dominions and want to use the best participants in the race as their militia to take over each and every country.
+- The richest people in the world at the time are trying to divide up the planet into their own dominions and want to use the best participants in the race as their militia to take over each and every country![[Pasted image 20260816142849.png]]
 - They will select people from different countries and manipulate them into thinking they are doing a particular expedition to this one nation that they either despise or know nothing about.
 - Make sure there is actually political in-fighting within the group
 - Also some gov's will probably support this
@@ -368,7 +370,34 @@
 	- He is a really big dude named **Brontomerus** who is a berserker barbarian.
 	- When he enters the fray, he will not yell for help but will scream a very loud and aggressive scream that will bring his comrades (two other guys, **George and Harvey**, one of which is a fighter and the other is a rogue).
 - Berserker with 40 HP
-- bandit captain with 25 hp
+- bandit captain with 65 hp
+- init:
+	- Bo: 5
+	- luna: 14
+	- herb: 22
+	- cam: 19
+	- malachi: 18
+	- Bandit captain: 8
+	- berserker: 18
+	- guard: 10
+- order:
+	- herb
+	- cam
+		- 17 stealth
+	- malachi
+		- divine favor
+		- extra 1d4 radiant damage on a hit
+	- berserker
+		- 67 - 19 = 58 - 10 = 48 - 18 = 20 - 5 = 15 - 14 = 1 - 1 = 0
+	- luna
+	- guard
+		- 11 - 6 = 5
+		- runs away
+	- bandit captain:
+		- prone
+		- incapacitated
+		- 65 - 10 = 55 - 9 = 46 - 6 = 40 - 22 = 18
+	- bo
 - guard (he will probably die)
 - If they have a boat (the party) these people will be sent by Damien Cool to sabotage Herbie on his journey
 - If they are stealing a boat, it will be the boat of damien cool's band
