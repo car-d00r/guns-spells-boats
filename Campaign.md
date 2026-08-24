@@ -541,7 +541,18 @@ just like monsters but slightly updated to be more applicable for an object.
 	- reduce
 	- feeblemind
 - Depending on how this goes, the arietus crew may try to attack them after getting back on their ship, shooting cannons from point blank as they begin to sail away.
-- Their ship is
+# Ship battle with arietus
+- Init
+	- Arietus: 25 - 7 - 9 = 9 - 9: 0 hp, movement 50 ft
+	- princess: 33 - 3 = 30, movement 30 ft
+	- cult fanatic
+		- a: 33 - 17 = 16 - 15 =1
+		- b: 33
+		- c: in water, 33
+		- d: 33
+		- acolyte
+		- acolyte
+	- 
 ## Sirens Song, Band Member Abandoned
 - It will look like a group of mermaids on these rocks in the middle of the sea
 - Their song is a sort of illusion magic which hides their true form and messes with the senses of those who hear it
@@ -557,7 +568,7 @@ just like monsters but slightly updated to be more applicable for an object.
 	- can shape shift into human, mermaid, or its true monster form
 	- **Multiattack**. The siren makes two attacks with her claws.
 	- **Claw**. _Melee Weapon Attack_: +5 to hit, reach 5 ft., one target. _Hit_: 8 (2d6 + 1) slashing damage.
-	- **Luring Song**. The siren sings a magical melody. Every humanoid and giant within 300 feet of the siren that can hear the song must succeed on a DC 14 [Wisdom](https://www.5esrd.com/using-ability-scores#TOC-Wisdom) saving throw or be [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) until the song ends. The siren must take bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is incapacitated. While [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) by the siren, a target is incapacitated and ignores the songs of other sirens. If the [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target is more than 5 feet away from the siren, the target must move on its turn towards the siren by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, the target can repeat the saving throw. A [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target can also repeat the saving throw at the end of each of its turns. If the saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren’s song for the next 24 hours.
+	- **Luring Song**. The siren sings a magical melody. Every humanoid and giant within 300 feet of the siren that can hear the song must succeed on a DC 14 [Wisdom](https://www.5esrd.com/using-ability-scores#TOC-Wisdom) saving throw or be [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) until the song ends. The siren must take bonus action on its subsequent turns to continue singing. It can stop singing at any time. The song ends if the siren is incapacitated. While [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) by the siren, a target is incapacitated and ignores the songs of other sirens. If the [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target is more than 5 feet away from the siren, the target must move on its turn towards the siren by the most direct route, trying to get within 5 feet. It doesn’t avoid opportunity attacks, but before moving into damaging terrain, such as lava or a pit, and whenever it takes damage from a source other than the siren, the target can repeat the saving throw. A [charmed](https://www.5esrd.com/gamemastering/conditions/#Charmed) target can also repeat the saving thro w at the end of each of its turns. If the saving throw is successful, the effect ends on it. A target that successfully saves is immune to this siren’s song for the next 24 hours.
 - If they save angrid, she will be so pissed at damian the crew that she will immediately try to convince the crew to go after them and attack
 # The first Island 
 - The first island will be Twighland, the island of mirrors
