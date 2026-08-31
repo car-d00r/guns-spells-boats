@@ -421,7 +421,16 @@
 - They will be told there are all sorts of beasts in the valley, but thats only because people tend to stay away, not the reason that people stay away.
 - The believe the valley itself is home to a powerful demon as many have been killed in the valley and the few that have survived have reported being attacked by clones of themselves or passed loved ones.
 - There boat will be taxied to the other side for them by the crew they had gotten from the Arietus's Light.
+- This will be told to them by one of the locals, who TMG tasked with delivering this info. They move through the island by consuming a particular mushroom that focuses them only on the path before them, making them immune to the deception that lurks in the jungle.
 ## Run in with Malachi's Brother
+- Malachi's brother is there: Constantine Upon Trent
+- this is malachi's older brother who has huge older brother energy
+- He is the golden child and one of the Paladins of Madam, a special unit high up within the church.
+- He has a ton of pressure on him because of his position, and he delivers, but that pressure takes his toll
+- He is envious of his younger brother, but admires him
+- Expresses this as trying to tell him he's ruining his life, because he doesn't want to believe his brother figured out something he didn't
+- He is still nice to his brother, but just wants him to do what Const thinks is what will solve the families issues
+- He doesn't really know who he is at all, like he doesn't know if he likes anything.
 ## Cant fly from the past
 - Bogey will see Jim Crow as he lands on the island, transforming from a bird into a human
 - If Jim Crow sees him he will come up to him a berate him
@@ -431,6 +440,12 @@
 - Tony will greet bogie enthusiastically, dapping him up and asking him what shenanigans he's been up to since he's been gone.
 - Jim will interrupt him and say that Tony has become the best avian shifter in the school, everyone is saying he should get bird of the year (one of the accolades awarded at the end each school year).
 - Tony will be very proud but try not to show it in order not to hurt bogie's feelings. He will ask Bogie if he and his friends want to hang out for the night, get a drink or maybe smoke something. Turn into bears and go crazy like they used to.
+- Angrid is searching for Damien and his party to confront them
+- Bogey is rummaging through other campsites with Tony looking for drugs whilst being brown bears
+- Joline is scoping out the potion shop
+	- Not able to convince the shop keep to get a lower price
+- Kragor is looking for princess in the encampment
+- Hamal is following the guy that looks like malachi, following him since he is going the direction of the family
 ## Through the Misty Valley
 - They must make their way through the misty valley. Their only challenge initially is to get to the other side with every member of their crew that they entered with. 
 - While they are making their way through the foggy, lively, wet valley, the whole party will have to make wisdom saving throws every so often. If they fail, it will allow the dopplegangers in the distance to read their thoughts
