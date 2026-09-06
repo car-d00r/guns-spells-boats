@@ -422,15 +422,10 @@
 - The believe the valley itself is home to a powerful demon as many have been killed in the valley and the few that have survived have reported being attacked by clones of themselves or passed loved ones.
 - There boat will be taxied to the other side for them by the crew they had gotten from the Arietus's Light.
 - This will be told to them by one of the locals, who TMG tasked with delivering this info. They move through the island by consuming a particular mushroom that focuses them only on the path before them, making them immune to the deception that lurks in the jungle.
-## Run in with Malachi's Brother
-- Malachi's brother is there: Constantine Upon Trent
-- this is malachi's older brother who has huge older brother energy
-- He is the golden child and one of the Paladins of Madam, a special unit high up within the church.
-- He has a ton of pressure on him because of his position, and he delivers, but that pressure takes his toll
-- He is envious of his younger brother, but admires him
-- Expresses this as trying to tell him he's ruining his life, because he doesn't want to believe his brother figured out something he didn't
-- He is still nice to his brother, but just wants him to do what Const thinks is what will solve the families issues
-- He doesn't really know who he is at all, like he doesn't know if he likes anything.
+- His name is Jongulie Gorge
+- He also tells them how TMG immediately started harvesting these mushrooms from the island.
+	- They are planning to use these mushrooms to make people more agreeable to their conquest in hell
+- They put all of the natives to work on either harvesting or facilitating this event without really asking them. They did however pay them very little and give them technology they didn't really need in the first place.
 ## Cant fly from the past
 - Bogey will see Jim Crow as he lands on the island, transforming from a bird into a human
 - If Jim Crow sees him he will come up to him a berate him
@@ -446,12 +441,58 @@
 	- Not able to convince the shop keep to get a lower price
 - Kragor is looking for princess in the encampment
 - Hamal is following the guy that looks like malachi, following him since he is going the direction of the family
+## Angrid finds Damien
+- She will be in a rage already
+- As soon as she sees him she will start screaming a chant and start playing orcish war drum music
+- She will say "Damien, I am going to turn your body cooler than cool, I am going to make you ice cold!" And then charge at him, recklessly attacking him
+- The crew may just let her be, in which case she may either die or be beaten down so badly and then basically imprisoned.
+- Gwendolyn will be visibly upset
+- They may also try to settle things between them, which Gwendolyn will be very grateful for. If they are able to do this, Gwendolyn will pull herbie aside to thank him, and also tell him about the "strange" things that she has started noticing with Damien
+	- He has been less patient than normal lately and it seems like he is really stressed out
+	- He has been sneaking away lately to talk to someone that I don't really see
+	- It's almost like he is praying but he has never been known to be religious
+	- Plus it doesn't sound like a prayer, it sounds way more like pleading for power with something.
+- They may also help fight them, in which case they will fight damien.
+- If damien and crew get the upper hand, Gwendolyn will plead him not to kill them
+- If they get the upper hand, it depends on if they try to kill him
+	- if they do, gwendolyn will scream and plead with herbie
+	- if they don't, gwendolyn will thank them and admit it was wrong for them to abandon Angrid. She will then pull herbie aside and tell her about what's been weird with him.
+## Run in with Malachi's Brother
+- Malachi's brother is there: Constantine Upon Trent
+- this is malachi's older brother who has huge older brother energy
+- He is the golden child and one of the Paladins of Madam, a special unit high up within the church.
+- He has a ton of pressure on him because of his position, and he delivers, but that pressure takes his toll
+- He is envious of his younger brother, but admires him
+- Expresses this as trying to tell him he's ruining his life, because he doesn't want to believe his brother figured out something he didn't
+- He is still nice to his brother, but just wants him to do what Const thinks is what will solve the families issues
+- He doesn't really know who he is at all, like he doesn't know if he likes anything.
+- Ham's compass will be pointing the way he is walking because Constantine is walking towards his tent, where the cat princess is kept.
+- Const. does not know why he is transporting this cat, all he knows is it is some magical beast that is important to the church and is to transport it to someone who will collect it on this very island. There is a high ranking member of the church who apparently has recently taken up residence here.
+- He is annoyed by it because it will only slow down his race on the Conatum. 
+- But apparently, according to him, it has been worked out that other representatives will meet him in the valley and collect the kitty so he doesn't have to make any detours at least.
+- Ham will make a nature check when he gets outside the tent.
+- Depending on his perception check he will also see a drow with the Ogleton crest on it going into the tent
+- This will be Bartholomei who is going to try to swindle princess away from Const. Bart has been told that there is a valuable magic beast in his possession by danglethorp (who was told by his demon). Neither of them know what the cat is though.
+- Ham of course may try and figure out a way to ease drop on the conversation
+## A friend of Jan's Father
+- Jan will see the flag of his village, probably expecting something bad.
+- But instead a friendly face will call out to him, Beargrill Olothorp
+- Dear Beargrill, I have been absolutely smashing my investigation into the Teetertinkle family and their inner-circle. Our feeling that there have been way too many arrests, and an even more surprising number of executions, seems to be spot on the money. After my shift one evening I went into the arrest records room to see if I could find anything. There was nothing out of the ordinary in the normal records, but I found a false wall that led to a hidden closet where there was another set of records. There were a few different cabinets. One labeled quotas, another labelled prospects, and a last one labelled sacrifices. I had to get out of there before I had the time to go through them, that damn Bartholomei came in just as it was gettin' good. I think I was slick enough to slip out of the room without him seeing where I was, I am pretty sneaky after all. I plan to go back later this week and dive deeper. If anything happens to me, I want you to take up this mantle as well as see to it that my boys are okay. I know I ask a lot of you, but hey no burden is too big for those broad shoulders right?
+## A letter from late great Dollymus
+- The late Archcanon will have arranged for a sending spell with a message to be triggered if Joline ever left the library for more than two days without Dolly disabling it. it says:
+	- Hey there Hollywood, if you are receiving this sending spell, I'm dead. Happy hunting, watch the rhinestones. If I never told you, I'm so sorry.
 ## Through the Misty Valley
 - They must make their way through the misty valley. Their only challenge initially is to get to the other side with every member of their crew that they entered with. 
 - While they are making their way through the foggy, lively, wet valley, the whole party will have to make wisdom saving throws every so often. If they fail, it will allow the dopplegangers in the distance to read their thoughts
 	- Reading their thoughts may allow the doppleganger to do a few actions
 		- The first is to understand the more recent history of that individual, enabling them to take their form and mimic them such that someone who just met them wouldn't know the difference
-		- They may also
+		- On a higher role, they gain more insight into your memories and personality. This enables them to take the form of someone from that character's past.
+- Eating the mushrooms dulls your senses a bit but strengthens your mind, giving you advantage on wisdom saving throws.
+- One mushroom lasts for about 12 hours.
+- The dopplegangers may also try to kidnap ham if they lose the battle.
+## Hand over the princess
+- When Const. is trying to hand over princess to the catholics who are the dopplegangers, he will be ambushed by bartholomei
+- The two dopplegangers, const, bart, and the shadow demon.
 # Thieve's Island
 - Use the one-shot you are running for nate and jaedon!
 # Ham gets bullied
@@ -476,3 +517,5 @@
 	- Vicious mockery
 	- reduce
 	- feeblemind
+## A chat with dolly
+- Figure out a way to get the gang to have an opportunity to a special kind of speak with dead spell
