@@ -457,6 +457,7 @@
 - If they get the upper hand, it depends on if they try to kill him
 	- if they do, gwendolyn will scream and plead with herbie
 	- if they don't, gwendolyn will thank them and admit it was wrong for them to abandon Angrid. She will then pull herbie aside and tell her about what's been weird with him.
+- Gwen asks herbie to talk to Damien and so he says yes after some arguing.
 ## Run in with Malachi's Brother
 - Malachi's brother is there: Constantine Upon Trent
 - this is malachi's older brother who has huge older brother energy
@@ -478,6 +479,7 @@
 - Jan will see the flag of his village, probably expecting something bad.
 - But instead a friendly face will call out to him, Beargrill Olothorp
 - Dear Beargrill, I have been absolutely smashing my investigation into the Teetertinkle family and their inner-circle. Our feeling that there have been way too many arrests, and an even more surprising number of executions, seems to be spot on the money. After my shift one evening I went into the arrest records room to see if I could find anything. There was nothing out of the ordinary in the normal records, but I found a false wall that led to a hidden closet where there was another set of records. There were a few different cabinets. One labeled quotas, another labelled prospects, and a last one labelled sacrifices. I had to get out of there before I had the time to go through them, that damn Bartholomei came in just as it was gettin' good. I think I was slick enough to slip out of the room without him seeing where I was, I am pretty sneaky after all. I plan to go back later this week and dive deeper. If anything happens to me, I want you to take up this mantle as well as see to it that my boys are okay. I know I ask a lot of you, but hey no burden is too big for those broad shoulders right?
+- Have beargrill do some investigating and tell him at the next checkpoint where they meet up
 ## A letter from late great Dollymus
 - The late Archcanon will have arranged for a sending spell with a message to be triggered if Joline ever left the library for more than two days without Dolly disabling it. it says:
 	- Hey there Hollywood, if you are receiving this sending spell, I'm dead. Happy hunting, watch the rhinestones. If I never told you, I'm so sorry.
