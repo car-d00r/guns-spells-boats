@@ -491,12 +491,43 @@
 		- On a higher role, they gain more insight into your memories and personality. This enables them to take the form of someone from that character's past.
 - Eating the mushrooms dulls your senses a bit but strengthens your mind, giving you advantage on wisdom saving throws.
 - One mushroom lasts for about 12 hours.
-- The dopplegangers may also try to kidnap ham if they lose the battle.
+- The dopplegangers may also try to kidnap ham
+- The other dopplegangers will attack the others in the party, those that took mushrooms will have disadvantage on attacks but attacks against them will also be disadvantaged
+- If ham gets kidnapped, eventually heimdall will appear to help them
+- They dopplegangers here are the same that will be impersonating the catholics to meet up with Const.
+- If the fight lasts more than a couple / few rounds, they will start saying to each other how they have to get going, and start arguing if they should try and kidnap ham or just give up.
+- Eventually they will just give up and try to escape the others.
+- The group may try to follow them, if they are unable then Agie will mention how she has a compass, that weird heimdall guy gave her, that seems to point to ham.
 ## Hand over the princess
 - When Const. is trying to hand over princess to the catholics who are the dopplegangers, he will be ambushed by bartholomei
-- The two dopplegangers, const, bart, and the shadow demon.
-# Thieve's Island
+- The two dopplegangers, const, bart, and the shadow demon. peter teetertinkle will be waiting in the wings if things don't go well with bart, though he will assuredly jump in too early and bart will get pissed at him.
+### What is princess doing?
+- Definitely talks to both ham and kragor if they see him
+- Will be mostly trying to escape
+### The other parties will all be trying to capture princess while preventing the others from doing so
+### How const. react to seeing his brother?
+- Constantine, maybe outside of the party members will be the most confused of all of them
+- He will not fight the doppleganger's posing as catholics, and will instead focus on Bartholomei
+- If the party tries to steal princess, he will reluctantly attack the party, but will have disadv when attacking his brother.
+- If const is able to get princess, then he will not run, but hold it hostage to try and get information from everyone.
+### How do the doppleganger's react?
+- Once they see the group has followed them they will get very angry and order constantine to attack them, which will only confuse them more. Once they get ham and princess, they will immediately try and leave
+# Nashville, Tenahsee
 - Use the one-shot you are running for nate and jaedon!
+- How to style this as a part of the canatum
+	- The groups will receive a proctor for this leg of the journey.
+	- The proctor tasks them with going and "retrieving a magical item from a high stakes location", but its really stealing an item that is a part of their scheme
+	- The man who is their proctor will be a representative, a junior of sort, within the world's most generous.
+	- The proctor will be a warlock who is bound to the devil Mephistopholes
+## How is herbie going to investigate Damien?
+- What is damien's routine like
+- What clues are there to be discovered
+- How does damien react if confronted by Herbie
+## What else is going on with Joline?
+- they could encounter a demon (at night on the ship)
+	- and it could recognize the magic of Joline
+	- It starts getting very afraid the first time joline casts a spell, as dolly was the one who sent this demon back to the abyss last time it was killed.
+### What happens to Beargrill Olothorp?
 # Ham gets bullied
 - The party may run into a group of occultists from Arietus as they are sailing into the Twighland harbor
 - They will be Ham's contemporaries in the cult
@@ -519,5 +550,3 @@
 	- Vicious mockery
 	- reduce
 	- feeblemind
-## A chat with dolly
-- Figure out a way to get the gang to have an opportunity to a special kind of speak with dead spell
