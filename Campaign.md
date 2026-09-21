@@ -498,6 +498,9 @@
 - If the fight lasts more than a couple / few rounds, they will start saying to each other how they have to get going, and start arguing if they should try and kidnap ham or just give up.
 - Eventually they will just give up and try to escape the others.
 - The group may try to follow them, if they are unable then Agie will mention how she has a compass, that weird heimdall guy gave her, that seems to point to ham.
+- Herbie and Jan are just walking.
+- The group kills all the dopplegangers (kinda crazy), then finds the note about them meeting up with const.
+- They also find two speak with dead scrolls. They use one on one of the bodies and discover that they were working on behalf of their demon father who wants princess because they are eternal enemies (princess is an arch-demon of the nine-hells, previously the right hand man of the main arch-devil himself).
 ## Hand over the princess
 - When Const. is trying to hand over princess to the catholics who are the dopplegangers, he will be ambushed by bartholomei
 - The two dopplegangers, const, bart, and the shadow demon. peter teetertinkle will be waiting in the wings if things don't go well with bart, though he will assuredly jump in too early and bart will get pissed at him.
