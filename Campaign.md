@@ -507,7 +507,6 @@
 ### What is princess doing?
 - Definitely talks to both ham and kragor if they see him
 - Will be mostly trying to escape
-### The other parties will all be trying to capture princess while preventing the others from doing so
 ### How const. react to seeing his brother?
 - Constantine, maybe outside of the party members will be the most confused of all of them
 - He will not fight the doppleganger's posing as catholics, and will instead focus on Bartholomei
